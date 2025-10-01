@@ -1,89 +1,82 @@
 <h1 align="center">Hi, I'm Gagana K 👋</h1>
 
 <p align="center">
-  <b>Bangalore, India</b> &nbsp;|&nbsp; <a href="mailto:gaganakp1609@gmail.com">gaganakp1609@gmail.com</a> &nbsp;|&nbsp; 
-  <a href="https://www.linkedin.com/in/gagana-k-3509582a2">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/GAGANAKARTHIKEYAN">GitHub</a>
+  Bangalore, Karnataka – 560050 &nbsp;|&nbsp; 
+  <a href="mailto:gaganakp1609@gmail.com">gaganakp1609@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/gagana-k-3509582a2">LinkedIn</a> &nbsp;|&nbsp; 
+  <a href="https://github.com/GAGANA-KARTHIKEYAN">GitHub</a>
 </p>
 
 ---
 
-🎓 <b>B.Tech (Hons.) in Computer Science</b>, RV University (2023–Present)  
-📈 <b>CGPA</b>: 9.555
+### 🎯 Objective
+
+Motivated B.Tech (Hons.) Computer Science student at RV University passionate about AI, robotics, automation, and research.  
+Focused on solving real-world problems with machine learning and emerging technologies while continuously learning and contributing to innovative solutions.
 
 ---
 
-### 👨‍💻 Objective
+### 🎓 Education
 
-Motivated B.Tech (Hons.) student passionate about AI, robotics, automation, and research.  
-Solving real-world problems with machine learning and emerging technologies.  
-Hands-on with Java, SQL, Python, C, OpenPLC; focused on innovation and impactful solutions.
+- B.Tech (Hons.) Computer Science, RV University — CGPA 9.555 (2023 – Present)  
+- Pre-University (Science), RV PU College — 96.5% (2021 – 2023)  
+- School (10th Grade), Apollo Convent — 99.36% (2013 – 2021)
+
+---
+
+### 🚀 Projects & Experience
+
+- **AI-Powered Drug Discovery & Quantum Protein Folding (2025)**  
+  Used ML, DL, QML, and QNN for molecular binding affinity and folding pattern predictions. Agile, Docker, Jira, CI/CD pipelines.
+
+- **DeepFake Detection using Feature Engineering and CNNs (2025)**  
+  Models with LBP, HOG, VGG16, and Xception to detect deepfake authenticity.
+
+- **Reducing Emergency Vehicle Response Time with Deep Reinforcement Learning (2025)**  
+  Simulated 6x6 smart city traffic grid using A2C RL for traffic optimization. Research paper in progress.
+
+- **Modular Self-Healing Robot in ROS 2 (2025)**  
+  Modular architecture with LiDAR and camera diagnostics, Gazebo simulation with URDF/Xacro.
+
+- **WeatherTech – Embedded Environmental Monitor (2024)**  
+  Arduino-based portable prototype measuring environmental parameters with Python visualizations.
+
+- **Intern – Crop Rotation Research for Soil Carbon (2024)**  
+  Data analysis with Seaborn and Folium for sustainable agriculture insights.
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages**: Java, Python, C, C++, SQL
-- **Web Tech**: HTML, CSS, JavaScript
-- **Frameworks/Tools**: Git, GTK, OpenPLC, ROS 2, URDF, Gazebo, Xacro, Cisco Packet Tracer, Docker, Kubernetes
-- **Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Folium, PennyLane
-- **Technologies**: Deep Learning, QML, QNN, Reinforcement Learning, LiDAR, Camera Calibration
-- **Domains**: Machine Learning, Cloud Computing, Drug Discovery, Smart City Systems, DevOps, Agile with Scrum
-- **Soft Skills**: Problem-solving, Communication, Teamwork, Time management, Adaptability
-
----
-
-### 🚀 Projects and Experience
-
-#### 🧬 AI-Powered Drug Discovery & Quantum Protein Folding (2025)
-- ML, DL, QML, QNN for molecule binding affinity/fold prediction.
-- Agile process, CI/CD (GitHub Actions), Dockerized backend.
-
-#### 🕵️ DeepFake Detection using Feature Engineering & CNNs (2025)
-- Classical ML (LBP, HOG) vs. Deep Learning (VGG16, Xception) on Kaggle datasets.
-- Compared performance for facial authenticity detection.
-
-#### 🚑 Emergency Vehicle Response via RL in Smart Cities (2025)
-- A2C RL for 6x6 city grid, optimizing routing & signals.
-- Research paper in progress.
-
-#### 🤖 Modular Self-Healing Robot (ROS 2, LiDAR, Camera) (2025)
-- Designed redundancies, diagnostics in ROS 2.
-- LiDAR/camera integration, Gazebo sim, URDF/Xacro.
-
-#### 🌦 WeatherTech: Embedded Environmental Monitor (2024)
-- Arduino + multi-sensor board (DHT11, MQ135, UV, RTC), Python visualizations.
-
-#### 🌱 Intern – Crop Rotation Research for Soil Carbon (2024)
-- Data-driven insight with Python (Seaborn, Folium).
+- **Languages:** Python, Java, C, SQL  
+- **Tools/Frameworks:** Git, ROS 2, OpenPLC, Gazebo, Docker, Kubernetes, Jira  
+- **Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Core Skills:** Machine Learning, Deep Learning, Reinforcement Learning  
+- **Soft Skills:** Problem-solving, Teamwork, Communication
 
 ---
 
 ### 📚 Courses & Certifications
 
-- Programming in Modern C++ (NPTEL, 2025)
-- ML in Agriculture (Dhee Center for AI, 2024)
-- Agile Scrum Foundation (Simplilearn SkillUp, 2025)
-- Data Visualization (Kaggle Learn, 2024)
-- Pandas (Kaggle Learn, 2024)
+- Programming in Modern C++ — NPTEL (2025)  
+- ML in Agriculture Summer Internship — Dhee Center, SoCSE (June 2024)  
+- Agile Scrum Foundation — Simplilearn SkillUp (Feb 2025)  
+- Data Visualization — Kaggle Learn (June 2024)  
+- Pandas — Kaggle Learn (June 2024)  
 
 ---
 
 ### 📌 Pinned Repositories
 
-Make sure to pin the below:
-- `ai-drug-discovery-qml`
-- `deepfake-detection-cnn`
-- `smartcity-rl-traffic`
-- `ros2-self-healing-robot`
-- `weathertech-embedded-env`
-- **(add links after creating repos)**
+*(Add your best 4–6 project repos here for pinning on your profile)*
 
 ---
 
 ### 📈 GitHub Stats
 
-![Gagana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAGANAKARTHIKEYAN&show_icons=true&theme=blueberry)
+![Gagana's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAGANA-KARTHIKEYAN&show_icons=true&theme=blueberry)
 
 ---
 
-<!-- Optionally add a motivational quote, interests, or fun facts at the end -->
+Feel free to connect or check out my work!
+
