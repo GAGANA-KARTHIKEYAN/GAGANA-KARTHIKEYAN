@@ -66,12 +66,6 @@ Focused on solving real-world problems with machine learning and emerging techno
 
 ---
 
-### 📌 Pinned Repositories
-
-*(Add your best 4–6 project repos here for pinning on your profile)*
-
----
-
 ### 📈 GitHub Stats
 
 ![Gagana's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAGANA-KARTHIKEYAN&show_icons=true&theme=blueberry)
