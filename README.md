@@ -18,7 +18,7 @@ Focused on solving real-world problems with machine learning and emerging techno
 
 ### 🎓 Education
 
-- B.Tech (Hons.) Computer Science, RV University — CGPA 9.555 (2023 – Present)  
+- B.Tech (Hons.) Computer Science, RV University — CGPA 9.7 (2023 – Present)  
 - Pre-University (Science), RV PU College — 96.5% (2021 – 2023)  
 - School (10th Grade), Apollo Convent — 99.36% (2013 – 2021)
 
@@ -58,11 +58,13 @@ Focused on solving real-world problems with machine learning and emerging techno
 
 ### 📚 Courses & Certifications
 
-- Programming in Modern C++ — NPTEL (2025)  
-- ML in Agriculture Summer Internship — Dhee Center, SoCSE (June 2024)  
-- Agile Scrum Foundation — Simplilearn SkillUp (Feb 2025)  
-- Data Visualization — Kaggle Learn (June 2024)  
-- Pandas — Kaggle Learn (June 2024)  
+- Programming in Modern C++ - NPTEL (2025)
+- Affective Learning - NPTEL(2026)
+- Design & Implementation of Human-Computer Interfaces - NPTEL(2025)
+- ML in Agriculture Summer Internship - Dhee Center, SoCSE (June 2024)  
+- Agile Scrum Foundation - Simplilearn SkillUp (Feb 2025)  
+- Data Visualization - Kaggle Learn (June 2024)  
+- Pandas - Kaggle Learn (June 2024)  
 
 ---
 
