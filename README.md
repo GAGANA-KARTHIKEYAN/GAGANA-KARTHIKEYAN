@@ -29,17 +29,17 @@ I'm passionate about building intelligent applications, exploring Generative AI,
 
 ### 🌟 Featured Projects
 
-- **AI-Based DDoS Detection & Self-Healing SOC Dashboard** — AI-driven network attack detection, security monitoring, and incident response automation.
-- **Alzheimer's Detection** — Exploring multimodal learning using audio and text features with LSTM networks.
-- **AI-Powered Interview Platform** — Serverless interview application with resume parsing, adaptive LLM questioning, multimodal evaluation, and RAG-based candidate memory.
-- **Active Learning for Image Classification** — Experimenting with deep learning models and query strategies on CIFAR-10.
+- **AI-Based DDoS Detection & Self-Healing SOC Dashboard** - AI-driven network attack detection, security monitoring, and incident response automation.
+- **Alzheimer's Detection** - Exploring multimodal learning using audio and text features with LSTM networks.
+- **AI-Powered Interview Platform** - Serverless interview application with resume parsing, adaptive LLM questioning, multimodal evaluation, and RAG-based candidate memory.
+- **Active Learning for Image Classification** - Experimenting with deep learning models and query strategies on CIFAR-10.
 
 ### 📜 Certifications
 
-- **Design & Implementation of Human-Computer Interfaces** — NPTEL (SWAYAM), IIT Guwahati | 91/100 · Elite + Gold (Top 1%)
-- **Affective Computing** — NPTEL (SWAYAM), IIIT Delhi | 99/100 · Elite + Gold (Top 1%)
-- **Introduction to Graph Algorithms** — NPTEL (SWAYAM), IISc Bangalore | 98/100 · Elite + Gold (Top 2%)
-- **ML in Agriculture — Summer Internship** — Dhee Centre for AI and Data Science, SoCSE
+- **Design & Implementation of Human-Computer Interfaces** - NPTEL (SWAYAM), IIT Guwahati | 91/100 · Elite + Gold (Top 1%)
+- **Affective Computing** - NPTEL (SWAYAM), IIIT Delhi | 99/100 · Elite + Gold (Top 1%)
+- **Introduction to Graph Algorithms** - NPTEL (SWAYAM), IISc Bangalore | 98/100 · Elite + Gold (Top 2%)
+- **ML in Agriculture — Summer Internship** - Dhee Centre for AI and Data Science, SoCSE
 
 ### 🏆 Achievements
 
