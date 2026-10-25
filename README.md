@@ -34,11 +34,25 @@ I'm passionate about building intelligent applications, exploring Generative AI,
 - **AI-Powered Interview Platform** — Serverless interview application with resume parsing, adaptive LLM questioning, multimodal evaluation, and RAG-based candidate memory.
 - **Active Learning for Image Classification** — Experimenting with deep learning models and query strategies on CIFAR-10.
 
+### 📜 Certifications & Achievements
+
+- **Programming in Modern C++** — NPTEL (2025)
+- **Agile Scrum Foundation** — Simplilearn SkillUp
+- **Data Visualization** — Kaggle Learn
+- **Pandas** — Kaggle Learn
+- **ML in Agriculture – Summer Internship** — Dhee Center for AI and Data Science, SoCSE
+
+### 🏆 Achievements
+
+- Recipient of the **RV University Scholarship**.
+- Recipient of the **Lila Poonawalla Foundation (LPF) Scholarship**.
+
+
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAGANA-KARTHIKEYAN&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAGANA-KARTHIKEYAN&layout=compact&theme=github_dark)
 
 
 
