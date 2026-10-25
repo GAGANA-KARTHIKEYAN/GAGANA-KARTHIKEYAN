@@ -34,13 +34,13 @@ I'm passionate about building intelligent applications, exploring Generative AI,
 - **AI-Powered Interview Platform** — Serverless interview application with resume parsing, adaptive LLM questioning, multimodal evaluation, and RAG-based candidate memory.
 - **Active Learning for Image Classification** — Experimenting with deep learning models and query strategies on CIFAR-10.
 
-### 📜 Certifications & Achievements
+📜 Certifications
 
-- **Programming in Modern C++** — NPTEL (2025)
-- **Agile Scrum Foundation** — Simplilearn SkillUp
-- **Data Visualization** — Kaggle Learn
-- **Pandas** — Kaggle Learn
-- **ML in Agriculture – Summer Internship** — Dhee Center for AI and Data Science, SoCSE
+Design & Implementation of Human-Computer Interfaces — NPTEL (SWAYAM), IIT Guwahati | 91/100 · Elite + Gold (Top 1%)
+
+Affective Computing — NPTEL (SWAYAM), IIIT Delhi | 99/100 · Elite + Gold (Top 1%)
+
+Introduction to Graph Algorithms — NPTEL (SWAYAM), IISc Bangalore | 98/100 · Elite + Gold (Top 2%)
 
 ### 🏆 Achievements
 
