@@ -9,68 +9,38 @@
 
 ---
 
-### 🎯 Objective
+🎓 B.Tech (Hons.) student in **Artificial Intelligence & Machine Learning** at RV University, Bengaluru.
 
-Motivated B.Tech (Hons.) Computer Science student at RV University passionate about AI, robotics, automation, and research.  
-Focused on solving real-world problems with machine learning and emerging technologies while continuously learning and contributing to innovative solutions.
+I'm passionate about building intelligent applications, exploring Generative AI, and solving real-world problems through software engineering and machine learning.
 
----
-
-### 🎓 Education
-
-- B.Tech (Hons.) Computer Science, RV University — CGPA 9.7 (2023 – Present)  
-- Pre-University (Science), RV PU College — 96.5% (2021 – 2023)  
-- School (10th Grade), Apollo Convent — 99.36% (2013 – 2021)
-
----
-
-### 🚀 Projects & Experience
-
-- **AI-Powered Drug Discovery & Quantum Protein Folding (2025)**  
-  Used ML, DL, QML, and QNN for molecular binding affinity and folding pattern predictions. Agile, Docker, Jira, CI/CD pipelines.
-
-- **DeepFake Detection using Feature Engineering and CNNs (2025)**  
-  Models with LBP, HOG, VGG16, and Xception to detect deepfake authenticity.
-
-- **Reducing Emergency Vehicle Response Time with Deep Reinforcement Learning (2025)**  
-  Simulated 6x6 smart city traffic grid using A2C RL for traffic optimization. Research paper in progress.
-
-- **Modular Self-Healing Robot in ROS 2 (2025)**  
-  Modular architecture with LiDAR and camera diagnostics, Gazebo simulation with URDF/Xacro.
-
-- **WeatherTech – Embedded Environmental Monitor (2024)**  
-  Arduino-based portable prototype measuring environmental parameters with Python visualizations.
-
-- **Intern – Crop Rotation Research for Soil Carbon (2024)**  
-  Data analysis with Seaborn and Folium for sustainable agriculture insights.
-
----
+### 🚀 About Me
+- 🤖 Interested in AI/ML, Deep Learning, Generative AI, and Backend Development
+- 💻 Building projects involving machine learning, LLMs, and intelligent systems
+- 🧠 Exploring DSA, problem-solving, and software engineering fundamentals
+- 📚 Always learning and experimenting with new technologies
 
 ### 🛠️ Technical Skills
+- **Languages:** Python, Java, C, SQL
+- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG
+- **Frameworks & Libraries:** FastAPI, TensorFlow/PyTorch, Scikit-learn
+- **Web Development:** React, Next.js, JavaScript, TypeScript
+- **Databases:** MySQL, MongoDB, AWS DynamoDB
+- **Tools & Platforms:** Git, GitHub, Docker, AWS
 
-- **Languages:** Python, Java, C, SQL  
-- **Tools/Frameworks:** Git, ROS 2, OpenPLC, Gazebo, Docker, Kubernetes, Jira  
-- **Libraries:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Core Skills:** Machine Learning, Deep Learning, Reinforcement Learning  
-- **Soft Skills:** Problem-solving, Teamwork, Communication
+### 🌟 Featured Projects
 
----
+- **AI-Based DDoS Detection & Self-Healing SOC Dashboard** — AI-driven network attack detection, security monitoring, and incident response automation.
+- **Alzheimer's Detection** — Exploring multimodal learning using audio and text features with LSTM networks.
+- **AI-Powered Interview Platform** — Serverless interview application with resume parsing, adaptive LLM questioning, multimodal evaluation, and RAG-based candidate memory.
+- **Active Learning for Image Classification** — Experimenting with deep learning models and query strategies on CIFAR-10.
 
-### 📚 Courses & Certifications
+### 📊 GitHub Statistics
 
-- Programming in Modern C++ - NPTEL (2025)
-- Affective Learning - NPTEL(2026)
-- Design & Implementation of Human-Computer Interfaces - NPTEL(2025)
-- ML in Agriculture Summer Internship - Dhee Center, SoCSE (June 2024)  
-- Agile Scrum Foundation - Simplilearn SkillUp (Feb 2025)  
-- Data Visualization - Kaggle Learn (June 2024)  
-- Pandas - Kaggle Learn (June 2024)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
 
-### 📈 GitHub Stats
 
-![Gagana's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAGANA-KARTHIKEYAN&show_icons=true&theme=blueberry)
 
 ---
 
